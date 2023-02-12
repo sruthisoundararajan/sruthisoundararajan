@@ -9,7 +9,7 @@
 ![](https://leetcard.jacoblin.cool/sruthisoundar?ext=activity&theme=dark)
 
 # GeeksForGeeks Progress
-[![](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sruthir048)](https://auth.geeksforgeeks.org/user/sruthir048)
+[![sruthi geeksforgeeks progress](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sruthir048)](https://auth.geeksforgeeks.org/user/sruthir048)
 
 
 <!--
