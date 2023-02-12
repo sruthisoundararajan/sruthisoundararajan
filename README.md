@@ -4,6 +4,7 @@
 ### Langauges Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthSingaravelan&layout=compact&theme=radical&langs_count=8)
+
 # LeetCode Progress
 ![](https://leetcard.jacoblin.cool/sruthisoundar?ext=activity&theme=dark)
 
