@@ -1,6 +1,9 @@
 ### Hi there.. This is sruthi 👋
 
 ## 🎓 I'm a CSE Student with Specialization in Data Science in Vellore Institute of Technology.
+
+# LeetCode Progress
+![](https://leetcard.jacoblin.cool/sruthisoundar?ext=activity&theme=dark)
 <!--
 **sruthisoundararajan/sruthisoundararajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
