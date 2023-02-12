@@ -3,7 +3,7 @@
 ## 🎓 I'm a CSE Student with Specialization in Data Science in Vellore Institute of Technology.
 ### Langauges Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthSingaravelan&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthisoundararajan&layout=compact&theme=radical&langs_count=8)
 
 # LeetCode Progress
 ![](https://leetcard.jacoblin.cool/sruthisoundar?ext=activity&theme=dark)
