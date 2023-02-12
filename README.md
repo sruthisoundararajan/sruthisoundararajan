@@ -4,6 +4,10 @@
 
 # LeetCode Progress
 ![](https://leetcard.jacoblin.cool/sruthisoundar?ext=activity&theme=dark)
+
+# GeeksForGeeks Progress
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sruthir048)](https://auth.geeksforgeeks.org/user/sruthir048)
+
 <!--
 **sruthisoundararajan/sruthisoundararajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
