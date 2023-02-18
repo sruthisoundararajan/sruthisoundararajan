@@ -11,7 +11,8 @@
 # GeeksForGeeks Progress
 [![sruthi geeksforgeeks progress](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sruthir048)](https://auth.geeksforgeeks.org/user/sruthir048)
 
-
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=sruthisoundararajan&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 **sruthisoundararajan/sruthisoundararajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
